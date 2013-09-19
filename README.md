@@ -1,5 +1,5 @@
-fix-ubuntu-stb.sh
-=================
+fix-ubuntu
+==========
 
 This script changes Ubuntu so that you can open shell scripts by clicking them. 
 The way it does this is by creating a launcher for bash.
